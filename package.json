@@ -1,0 +1,19 @@
+{
+  "name": "cli_with_promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HafizAbdulah/CLI_With_Promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HafizAbdulah/CLI_With_Promise/issues"
+  },
+  "homepage": "https://github.com/HafizAbdulah/CLI_With_Promise#readme",
+  "description": ""
+}
